@@ -6,3 +6,9 @@ Atividade realizada como parte do Curso da Alura
  <li>HTML</li>
  <li>CSS</li>
 </ul>
+
+## Feito por:
+
+### Carlos Eduardo Martins
+
+### Linkedin: https://www.linkedin.com/in/carlos-eduardo-martins-domingos/
